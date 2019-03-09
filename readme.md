@@ -1,2 +1,2 @@
-# Udemy React Course
-## Webpack lesson app
+# react-webpack-app
+Udemy React Course - Webpack lesson
